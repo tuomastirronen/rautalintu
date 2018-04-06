@@ -1,0 +1,10 @@
+{
+  "name": "rautalintu",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.11.0"
+  },
+  "scripts": {
+    "start": "forever start --spinSleepTime 10000 server.js"
+  }
+}
